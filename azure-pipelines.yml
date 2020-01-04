@@ -3,6 +3,8 @@
   inputs:
     script: |
       echo Write your commands here
+      javac sum1.java
+      java AddTwoNumbers
       
       echo Hello world
 # Build your Java project and run tests with Apache Maven.
